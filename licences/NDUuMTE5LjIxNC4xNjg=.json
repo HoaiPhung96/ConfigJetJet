@@ -1,5 +1,6 @@
 {
   "enabled": true,
-  "hpkey": "MjAyNi0wOC0zMFQxNTowMA==",
-  "redirectUrl": "aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2xlaHV1bmhhdDI4MjM="
+  "devtools": false,
+  "hpkey": "MjAyNy0wMS0wMVQxMToxNg==",
+  "redirectUrl": "aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2hvYWlwaHVuZzl4Lw=="
 }
